@@ -2,4 +2,6 @@ Latihan git
 -membuat akun github
 -mengetahui command dasar GIT
 -integrasi GIT
+-melakukan praktik GIT
+-kolaborasi praktik GIT
 -mensinkronkan GIT dan VS Code
